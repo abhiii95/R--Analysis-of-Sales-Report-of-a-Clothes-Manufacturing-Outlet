@@ -1,6 +1,5 @@
 # R--Analysis-of-Sales-Report-of-a-Clothes-Manufacturing-Outlet
 
-## Analysis of Sales Report of a Clothes Manufacturing Outlet by Abhilash Mishra
 1. Project Motivation
 2. Installation
 3. Data
