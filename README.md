@@ -1,4 +1,4 @@
-# R--Analysis-of-Sales-Report-of-a-Clothes-Manufacturing-Outlet
+# R--Analysis-of-Sales-Report-of-a-Clothes-Manufacturing-Outlet 
 
 1. Project Motivation
 2. Installation
